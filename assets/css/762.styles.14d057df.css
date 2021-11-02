@@ -1,0 +1,16 @@
+
+table {
+  border-collapse: collapse;
+}
+table th, td{
+	width: 150px;
+  border: 0px;
+}
+tr{
+  height: 56px;
+  border: 1px solid #DCDEE3;
+}
+td{
+  border: 0px;
+}
+
